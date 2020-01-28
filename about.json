@@ -2,7 +2,7 @@
   "name": "New Topic button (mod)",
   "component": true,
   "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
-  "about_url": "https://meta.discourse.org/t/new-topic-button-on-all-pages-theme-component/84551",
+  "about_url": "https://github.com/rogercreagh/discourse-new-topic-button-mod",
   "authors": "modified by RogerCO",
   "theme_version": "1.0",
   "minimum_discourse_version": null,

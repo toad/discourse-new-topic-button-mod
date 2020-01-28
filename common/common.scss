@@ -29,3 +29,14 @@
 .rcofootnewtopic {
 	float: right;
 }
+/* don't show on main categories page, only on single category or topic*/
+.list-controls {
+    #create-topic {
+        display: none;
+    }
+    .category-navigation {
+        #create-topic {
+            display: block;
+        }
+    }
+}
