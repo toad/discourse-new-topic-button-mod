@@ -1,0 +1,31 @@
+@media (max-width: 850px) {
+  #new-create-topic span {
+    display: none;
+  }
+  #new-create-topic i {
+    margin-right: 0;
+  }
+}
+
+@if $New_topic_button_text == "" {
+  #new-create-topic span {
+    display: none;
+  }
+  #new-create-topic i {
+    margin-right: 0;
+  }
+}
+
+.extra-info-wrapper {
+    white-space: nowrap;
+}
+#topic-title .title-wrapper {
+    width: unset;
+}
+.rcotitlenewtopic .new-topic-btn {
+    padding-top: 14px;
+    float:right;
+}
+.rcofootnewtopic {
+	float: right;
+}
